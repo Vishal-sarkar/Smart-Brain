@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/Vishal-sarkar/Smart-Brain/static/css/main.395df2d5.chunk.css",
+    "main.js": "/Vishal-sarkar/Smart-Brain/static/js/main.c1f86a4d.chunk.js",
+    "main.js.map": "/Vishal-sarkar/Smart-Brain/static/js/main.c1f86a4d.chunk.js.map",
+    "runtime-main.js": "/Vishal-sarkar/Smart-Brain/static/js/runtime-main.d3cc67cd.js",
+    "runtime-main.js.map": "/Vishal-sarkar/Smart-Brain/static/js/runtime-main.d3cc67cd.js.map",
+    "static/css/2.6d7c7915.chunk.css": "/Vishal-sarkar/Smart-Brain/static/css/2.6d7c7915.chunk.css",
+    "static/js/2.6acc290f.chunk.js": "/Vishal-sarkar/Smart-Brain/static/js/2.6acc290f.chunk.js",
+    "static/js/2.6acc290f.chunk.js.map": "/Vishal-sarkar/Smart-Brain/static/js/2.6acc290f.chunk.js.map",
+    "static/js/3.2416d783.chunk.js": "/Vishal-sarkar/Smart-Brain/static/js/3.2416d783.chunk.js",
+    "static/js/3.2416d783.chunk.js.map": "/Vishal-sarkar/Smart-Brain/static/js/3.2416d783.chunk.js.map",
+    "index.html": "/Vishal-sarkar/Smart-Brain/index.html",
+    "static/css/2.6d7c7915.chunk.css.map": "/Vishal-sarkar/Smart-Brain/static/css/2.6d7c7915.chunk.css.map",
+    "static/css/main.395df2d5.chunk.css.map": "/Vishal-sarkar/Smart-Brain/static/css/main.395df2d5.chunk.css.map",
+    "static/js/2.6acc290f.chunk.js.LICENSE.txt": "/Vishal-sarkar/Smart-Brain/static/js/2.6acc290f.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.d3cc67cd.js",
+    "static/css/2.6d7c7915.chunk.css",
+    "static/js/2.6acc290f.chunk.js",
+    "static/css/main.395df2d5.chunk.css",
+    "static/js/main.c1f86a4d.chunk.js"
+  ]
+}
